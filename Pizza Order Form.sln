@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pizza Order Form", "Pizza Order Form.vbproj", "{927FDFEE-9118-4D27-AFF1-0D97CE7DD7BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{927FDFEE-9118-4D27-AFF1-0D97CE7DD7BB}.Debug.ActiveCfg = Debug|.NET
+		{927FDFEE-9118-4D27-AFF1-0D97CE7DD7BB}.Debug.Build.0 = Debug|.NET
+		{927FDFEE-9118-4D27-AFF1-0D97CE7DD7BB}.Release.ActiveCfg = Release|.NET
+		{927FDFEE-9118-4D27-AFF1-0D97CE7DD7BB}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
